@@ -2,7 +2,8 @@
   "initialState": "q0",
   "finalStates":{
     "q3": {
-      "token": "A"
+      "token": "A",
+      "table": "literal"
     },
     "q4": {
       "token": "B"
